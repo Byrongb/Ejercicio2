@@ -4,4 +4,4 @@
 
 Ejercicio realizado con los lenguajes de HTML y CSS 
 
-WEB:  
+WEB:  https://byrongb.github.io/Ejercicio2/
